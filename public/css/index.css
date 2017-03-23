@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+
+.nav-dark {
+    background-color: #47474C;
+    color: #ffffff;
+}
+
+.nav-dark a,
+.nav-dark a:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.title-main {
+    font-family: 'Raleway', serif !important;
+    font-size: 50px;
+    margin-top: 0;
+}
+
+.title-more-space {
+    line-height: 2;
+}
+
+.skill {
+    margin-right: 40px;
+}
+
+.skill:last-child {
+    margin-right: 0;
+}
